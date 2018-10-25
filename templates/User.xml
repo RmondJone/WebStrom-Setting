@@ -1,0 +1,22 @@
+<templateSet group="User">
+  <template name="c" value="注释: $a$&#10;* 时间: $b$ $c$&#10;* @author 郭翰林" description="函数注释" toReformat="false" toShortenFQNames="true">
+    <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="b" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="c" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="jt" value="()=&gt;" description="()=&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="swi" value="switch ($a$) {&#10;  case $b$:&#10;    break&#10;  default:&#10;    break&#10;}" description="switch()" toReformat="false" toShortenFQNames="true">
+    <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="b" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

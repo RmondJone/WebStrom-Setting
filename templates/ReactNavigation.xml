@@ -1,0 +1,140 @@
+<templateSet group="ReactNavigation">
+  <template name="navigationOptions" value="navigationOptions={&#10;    $a$&#10;}" description="配置StackNavigator的一些属性" toReformat="false" toShortenFQNames="true">
+    <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="title" value="title:&quot;$a$&quot;" description="标题，如果设置了这个导航栏和标签栏的title就会变成一样的，不推荐使用" toReformat="false" toShortenFQNames="true">
+    <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="header" value="header:&quot;$a$&quot;" description="可以设置一些导航的属性，如果隐藏顶部导航栏只要将这个属性设置为null" toReformat="false" toShortenFQNames="true">
+    <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="headerTitle" value="headerTitle:&quot;$a$&quot;" description="设置导航栏标题，推荐" toReformat="false" toShortenFQNames="true">
+    <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="headerBackTitle" value="headerBackTitle:&quot;$a$&quot;" description="设置跳转页面左侧返回箭头后面的文字，默认是上一个页面的标题。可以自定义，也可以设置为null" toReformat="false" toShortenFQNames="true">
+    <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="headerTruncatedBackTitle" value="headerTruncatedBackTitle:&quot;$a$&quot;" description="设置当上个页面标题不符合返回箭头后的文字时，默认改成&quot;返回&quot;" toReformat="false" toShortenFQNames="true">
+    <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="headerRight" value="headerRight:&quot;$a$&quot;" description="设置导航条右侧。可以是按钮或者其他视图控件" toReformat="false" toShortenFQNames="true">
+    <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="headerLeft" value="headerLeft:&quot;$a$&quot;" description="设置导航条左侧。可以是按钮或者其他视图控件" toReformat="false" toShortenFQNames="true">
+    <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="headerStyle" value="headerStyle:&quot;$a$&quot;" description="设置导航条的样式。背景色，宽高等" toReformat="false" toShortenFQNames="true">
+    <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="headerTitleStyle" value="headerTitleStyle:&quot;$a$&quot;" description="设置导航栏文字样式" toReformat="false" toShortenFQNames="true">
+    <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="headerBackTitleStyle" value="headerBackTitleStyle:&quot;$a$&quot;" description="设置导航栏‘返回’文字样式" toReformat="false" toShortenFQNames="true">
+    <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="headerTintColor" value="headerTintColor:&quot;$a$&quot;" description="设置导航栏颜色" toReformat="false" toShortenFQNames="true">
+    <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="headerPressColorAndroid" value="headerPressColorAndroid:&quot;$a$&quot;" description="安卓独有的设置颜色纹理，需要安卓版本大于5.0" toReformat="false" toShortenFQNames="true">
+    <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="gesturesEnabled" value="gesturesEnabled:$a$" description="是否支持滑动返回手势，iOS默认支持，安卓默认关闭" toReformat="false" toShortenFQNames="true">
+    <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="tabBarVisible" value="tabBarVisible:$a$" description="是否隐藏标签栏。默认不隐藏(true)" toReformat="false" toShortenFQNames="true">
+    <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="tabBarIcon" value="tabBarIcon:&quot;$a$&quot;" description="设置标签栏的图标。需要给每个都设置" toReformat="false" toShortenFQNames="true">
+    <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="tabBarLabel" value="tabBarLabel:&quot;$a$&quot;" description="设置标签栏的title" toReformat="false" toShortenFQNames="true">
+    <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="tabBarPosition" value="tabBarPosition:&quot;$a$&quot;" description="设置tabbar的位置，iOS默认在底部，安卓默认在顶部" toReformat="false" toShortenFQNames="true">
+    <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="swipeEnabled" value="swipeEnabled:$a$" description="是否允许在标签之间进行滑动" toReformat="false" toShortenFQNames="true">
+    <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="animationEnabled" value="animationEnabled:$a$" description="是否在更改标签时显示动画" toReformat="false" toShortenFQNames="true">
+    <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="lazy" value="lazy:&quot;$a$&quot;" description="是否根据需要懒惰呈现标签，而不是提前，意思是在app打开的时候将底部标签栏全部加载，默认false,推荐为true" toReformat="false" toShortenFQNames="true">
+    <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="trueinitialRouteName" value="trueinitialRouteName:&quot;$a$&quot;" description="设置默认的页面组件" toReformat="false" toShortenFQNames="true">
+    <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="backBehavior" value="backBehavior:$a$" description="按 back 键是否跳转到第一个Tab(首页)， none 为不跳转" toReformat="false" toShortenFQNames="true">
+    <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
