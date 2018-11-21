@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="hidden" value="'hidden'" description="hidden" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
