@@ -212,4 +212,19 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="contain" value="'contain'" description="contain" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="hidden" value="'hidden'" description="hidden" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cover" value="'cover'" description="cover" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
