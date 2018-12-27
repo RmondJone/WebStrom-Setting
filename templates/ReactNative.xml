@@ -3833,4 +3833,14 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="componentWillBlur" value="componentWillBlur(){&#10;}" description="componentWillBlur()" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="componentDidFocus" value="componentDidFocus(){&#10;}" description="componentDidFocus" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
