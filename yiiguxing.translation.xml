@@ -1,13 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="升级攻略" />
       <item value="hidden Name" />
       <item value="29305" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1" />
+        <entry key="CHINESE" value="4" />
+        <entry key="ENGLISH" value="4" />
       </map>
     </option>
   </component>
