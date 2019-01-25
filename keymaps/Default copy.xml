@@ -1,4 +1,12 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="meta c" />
+  </action>
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+    <keyboard-shortcut first-keystroke="meta v" />
+  </action>
   <action id="AddToFavoritesPopup" />
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
@@ -7,6 +15,12 @@
   <action id="CompareTwoFiles" />
   <action id="Diff.ShowDiff" />
   <action id="DuplicatesForm.SendToLeft" />
+  <action id="Editor Copy">
+    <keyboard-shortcut first-keystroke="meta c" />
+  </action>
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="meta v" />
+  </action>
   <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockStart" />
   <action id="EditorContextInfo" />
