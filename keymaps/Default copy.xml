@@ -52,6 +52,7 @@
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl o" />
+    <keyboard-shortcut first-keystroke="meta o" />
   </action>
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl 1" />
