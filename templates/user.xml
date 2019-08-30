@@ -19,4 +19,11 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="initModel" value="import {plainToClass} from &quot;class-transformer&quot;;&#10;import {XModel} from &quot;../../../dva/model&quot;;&#10;&#10;&#10;interface $a$ extends XModel {&#10;    state: {}&#10;    stateTransformer: (state) =&gt; any,&#10;}&#10;&#10;const model: $a$ = {&#10;    namespace: '',&#10;    state: {&#10;    },&#10;    stateTransformer: (state) =&gt; {&#10;        return state;&#10;    },&#10;    effects: {},&#10;    subscriptions: {},&#10;    reducers: {}&#10;}&#10;&#10;export default model&#10;" description="initModel" toReformat="false" toShortenFQNames="true">
+    <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>

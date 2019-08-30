@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="绘制地址Item" />
+      <item value="A React component for displaying text which supports nesting, styling, and touch handling." />
+      <item value="string" />
+      <item value="You may need an appropriate loader to handle this file type, currently no loaders are configured to process this file" />
+      <item value="Make all properties in T optional" />
+      <item value="List of origin strings to allow being navigated to. The strings allow * wildcards and get matched against *just* the origin (not the full URL). * If the user taps to navigate to a new page but the new page is not in * this whitelist, we will open the URL in Safari. * The default whitelisted origins are &quot;http://*&quot; and &quot;https://*&quot;." />
+      <item value="WebView will attempt to be compatible with the approach of a modern web browser with regard to mixed content" />
+      <item value="WebView will allow a secure origin to load content from any other origin, even if that origin is insecure." />
+      <item value="`'never'` (default) - WebView will not allow a secure origin to load content from an insecure origin." />
+      <item value="Specifies the mixed content mode. i.e WebView will allow a secure origin to load content from any other origin." />
       <item value="No remote repository specified. Please, specify either a URL or a remote name from which new revisions should be fetched" />
       <item value="Returns a Boolean value that indicates whether a value is the reserved value NaN (not a number)." />
       <item value="is not usable as a native method argument" />
@@ -14,8 +24,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="CHINESE" value="18" />
+        <entry key="ENGLISH" value="18" />
       </map>
     </option>
   </component>
