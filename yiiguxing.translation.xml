@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="optional" />
       <item value="重复" />
       <item value="f `true`, the text input obscures the text entered so that sensitive text * like passwords stay secure. The default value is `false`. Does not work with 'multiline={true}'." />
       <item value="builds the javascript bundle for offline use" />
