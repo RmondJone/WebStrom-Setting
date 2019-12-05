@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Notify" />
+      <item value="NODE TLS REJECT UNAUTHORIZED" />
       <item value="optional" />
       <item value="重复" />
       <item value="f `true`, the text input obscures the text entered so that sensitive text * like passwords stay secure. The default value is `false`. Does not work with 'multiline={true}'." />
@@ -49,8 +51,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="46" />
+        <entry key="CHINESE" value="47" />
+        <entry key="ENGLISH" value="48" />
       </map>
     </option>
   </component>
