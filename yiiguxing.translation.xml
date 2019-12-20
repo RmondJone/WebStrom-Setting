@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="/** * Boolean value to disable Hardware Acceleration in the `WebView`. Used on Android only * as Hardware Acceleration is a feature only for Android. The default value is `false`. * @platform android */" />
+      <item value="* Boolean value to disable Hardware Acceleration in the `WebView`. Used on Android only * as Hardware Acceleration is a feature only for Android. The default value is `false`. * @platform android" />
       <item value="/** * When true the scroll view bounces vertically when it reaches the end * even if the content is smaller than the scroll view itself. The default * value is false when `horizontal={true}` and true otherwise. */" />
       <item value="/** * Experimental: When true offscreen child views (whose `overflow` value is * `hidden`) are removed from their native backing superview when offscreen. * This canimprove scrolling performance on long lists. The default value is * false. */" />
       <item value="When true, ScrollView allows use of pinch gestures to zoom in and out. * The default value is true." />
@@ -8,7 +10,6 @@
       <item value="* A marker property for telling the list to re-render (since it implements PureComponent). * If any of your `renderItem`, Header, Footer, etc. functions depend on anything outside of the `data` prop, * stick it here and treat it immutably." />
       <item value="How many items to render in the initial batch" />
       <item value="convert Form Values" />
-      <item value="* Boolean value to disable Hardware Acceleration in the `WebView`. Used on Android only * as Hardware Acceleration is a feature only for Android. The default value is `false`. * @platform android" />
       <item value="get Prod Snap" />
       <item value="Notify" />
       <item value="NODE TLS REJECT UNAUTHORIZED" />
@@ -50,12 +51,11 @@
       <item value="No remote repository specified. Please, specify either a URL or a remote name from which new revisions should be fetched" />
       <item value="Returns a Boolean value that indicates whether a value is the reserved value NaN (not a number)." />
       <item value="is not usable as a native method argument" />
-      <item value="on Back" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="56" />
-        <entry key="ENGLISH" value="57" />
+        <entry key="CHINESE" value="58" />
+        <entry key="ENGLISH" value="59" />
       </map>
     </option>
   </component>
