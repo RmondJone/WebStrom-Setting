@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="/** * When true the scroll view bounces vertically when it reaches the end * even if the content is smaller than the scroll view itself. The default * value is false when `horizontal={true}` and true otherwise. */" />
+      <item value="/** * Experimental: When true offscreen child views (whose `overflow` value is * `hidden`) are removed from their native backing superview when offscreen. * This canimprove scrolling performance on long lists. The default value is * false. */" />
+      <item value="When true, ScrollView allows use of pinch gestures to zoom in and out. * The default value is true." />
+      <item value="Whether this view should render itself (and all of its children) into a single hardware texture on the GPU. * * On Android, this is useful for animations and interactions that only modify opacity, rotation, translation, and/or scale: * in those cases, the view doesn't have to be redrawn and display lists don't need to be re-executed. The texture can just be * re-used and re-composited with different parameters. The downside is that this can use up limited video memory, so this prop should be set back to false at the end of the interaction/animation." />
       <item value="* A marker property for telling the list to re-render (since it implements PureComponent). * If any of your `renderItem`, Header, Footer, etc. functions depend on anything outside of the `data` prop, * stick it here and treat it immutably." />
       <item value="How many items to render in the initial batch" />
       <item value="convert Form Values" />
@@ -47,15 +51,11 @@
       <item value="Returns a Boolean value that indicates whether a value is the reserved value NaN (not a number)." />
       <item value="is not usable as a native method argument" />
       <item value="on Back" />
-      <item value="manage Modal Add Button Style" />
-      <item value="manage" />
-      <item value="管理" />
-      <item value="成长值" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="52" />
-        <entry key="ENGLISH" value="53" />
+        <entry key="CHINESE" value="56" />
+        <entry key="ENGLISH" value="57" />
       </map>
     </option>
   </component>
