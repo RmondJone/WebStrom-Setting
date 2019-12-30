@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unexpected token" />
       <item value="We've failed to pass the specified git pre-commit hooks as the `git commit --amend`" />
       <item value="skip the git pre-commit hooks by adding the following flags to your commit" />
       <item value="/** * Boolean value to disable Hardware Acceleration in the `WebView`. Used on Android only * as Hardware Acceleration is a feature only for Android. The default value is `false`. * @platform android */" />
@@ -50,12 +51,11 @@
       <item value="WebView will allow a secure origin to load content from any other origin, even if that origin is insecure." />
       <item value="`'never'` (default) - WebView will not allow a secure origin to load content from an insecure origin." />
       <item value="Specifies the mixed content mode. i.e WebView will allow a secure origin to load content from any other origin." />
-      <item value="No remote repository specified. Please, specify either a URL or a remote name from which new revisions should be fetched" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="CHINESE" value="61" />
+        <entry key="ENGLISH" value="62" />
       </map>
     </option>
   </component>
