@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="expand" />
+      <item value="扩展" />
       <item value="* When `true`, indicates that the view is an accessibility element. * By default, all the touchable elements are accessible." />
       <item value="/** * Causes the scrollbars not to turn transparent when they are not in use. * The default value is false. * * @platform android" />
       <item value="* - `'auto'` - Default value, allow a user to over-scroll * this view only if the content is large enough to meaningfully scroll. * - `'always'` - Always allow a user to over-scroll this view. * - `'never'` - Never allow a user to over-scroll this view." />
@@ -49,13 +51,11 @@
       <item value="绘制地址Item" />
       <item value="A React component for displaying text which supports nesting, styling, and touch handling." />
       <item value="string" />
-      <item value="You may need an appropriate loader to handle this file type, currently no loaders are configured to process this file" />
-      <item value="Make all properties in T optional" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="65" />
-        <entry key="ENGLISH" value="66" />
+        <entry key="CHINESE" value="67" />
+        <entry key="ENGLISH" value="67" />
         <entry key="DUTCH" value="1" />
       </map>
     </option>
