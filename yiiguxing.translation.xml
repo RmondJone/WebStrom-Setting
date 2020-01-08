@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="insured Template" />
+      <item value="params" />
       <item value="item" />
       <item value="platform" />
       <item value="Defines the base stroke width in a chart" />
@@ -49,13 +51,11 @@
       <item value="No remote repository specified. Please, specify either a URL or a remote name from which new revisions should be fetched." />
       <item value="fatal" />
       <item value="const foldLine = name ? name.length &gt; 8 : false;" />
-      <item value="You are supposed to add children inside Carousel" />
-      <item value="error No space left on device" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="76" />
-        <entry key="ENGLISH" value="77" />
+        <entry key="CHINESE" value="78" />
+        <entry key="ENGLISH" value="79" />
         <entry key="DUTCH" value="1" />
       </map>
     </option>
