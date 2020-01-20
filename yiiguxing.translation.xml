@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="会话" />
       <item value="病种选择" />
       <item value="To make your branch track a remote branch call, for example," />
       <item value="git branch --set-upstream-to=origin/feature/UNION_APP_DV_2020.01 feature/UNION_APP_DV_2020.01" />
@@ -50,7 +51,6 @@
       <item value="whether to bundle JS and assets in debug mode" />
       <item value="Remove this line if you don't want Flipper enabled" />
       <item value="inline Requires" />
-      <item value="experimental Import Support" />
     </histories>
     <option name="languageScores">
       <map>
