@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Determines what the opacity of the wrapped view should be when touch is active" />
       <item value="transfer" />
       <item value="加密" />
       <item value="Invalid count value" />
@@ -50,12 +51,11 @@
       <item value="f `true`, the text input obscures the text entered so that sensitive text * like passwords stay secure. The default value is `false`. Does not work with 'multiline={true}'." />
       <item value="builds the javascript bundle for offline use" />
       <item value="Loads Flipper in React Native templates." />
-      <item value="* // by default the gradle tasks are skipped if none of the JS files or assets change; this means * // that we don't look at files in android/ or ios/ to determine whether the tasks are up to * // date; if you have any other folders that you want to ignore for performance reasons (gradle * // indexes the entire tree), add them here. Alternatively, if you have JS files in android/ * // for example, you might want to remove it from here." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="86" />
-        <entry key="ENGLISH" value="87" />
+        <entry key="CHINESE" value="87" />
+        <entry key="ENGLISH" value="88" />
         <entry key="DUTCH" value="1" />
       </map>
     </option>
