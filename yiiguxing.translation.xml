@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Only SDK internal errors will be logged" />
+      <item value="Maxium number of chars a single value can have before it will be truncated" />
+      <item value="Attaches stacktraces to pure capture message / log integrations" />
+      <item value="A global sample rate to apply to all events (0 - 1)." />
+      <item value="Information useful for debugging the SDK will be logged" />
       <item value="Determines what the opacity of the wrapped view should be when touch is active" />
       <item value="transfer" />
       <item value="加密" />
@@ -46,16 +51,11 @@
       <item value="get Prod Snap" />
       <item value="Notify" />
       <item value="NODE TLS REJECT UNAUTHORIZED" />
-      <item value="optional" />
-      <item value="重复" />
-      <item value="f `true`, the text input obscures the text entered so that sensitive text * like passwords stay secure. The default value is `false`. Does not work with 'multiline={true}'." />
-      <item value="builds the javascript bundle for offline use" />
-      <item value="Loads Flipper in React Native templates." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="87" />
-        <entry key="ENGLISH" value="88" />
+        <entry key="CHINESE" value="92" />
+        <entry key="ENGLISH" value="93" />
         <entry key="DUTCH" value="1" />
       </map>
     </option>
