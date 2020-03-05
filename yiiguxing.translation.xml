@@ -1,11 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Information useful for debugging the SDK will be logged" />
+      <item value="Only SDK internal errors will be logged." />
       <item value="Only SDK internal errors will be logged" />
       <item value="Maxium number of chars a single value can have before it will be truncated" />
       <item value="Attaches stacktraces to pure capture message / log integrations" />
       <item value="A global sample rate to apply to all events (0 - 1)." />
-      <item value="Information useful for debugging the SDK will be logged" />
       <item value="Determines what the opacity of the wrapped view should be when touch is active" />
       <item value="transfer" />
       <item value="加密" />
@@ -50,12 +51,11 @@
       <item value="convert Form Values" />
       <item value="get Prod Snap" />
       <item value="Notify" />
-      <item value="NODE TLS REJECT UNAUTHORIZED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="92" />
-        <entry key="ENGLISH" value="93" />
+        <entry key="CHINESE" value="94" />
+        <entry key="ENGLISH" value="95" />
         <entry key="DUTCH" value="1" />
       </map>
     </option>
