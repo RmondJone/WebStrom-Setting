@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="backforward" />
+      <item value="Function that is invoked when the `WebView` loading starts or ends." />
       <item value="Returning null will case the event to be dropped." />
       <item value="Stop loading the current page" />
       <item value="If you do not * wish to modify the event, simply return it at the end. * Returning null will case the event to be dropped." />
@@ -49,13 +51,11 @@
       <item value="/** * When true the scroll view bounces vertically when it reaches the end * even if the content is smaller than the scroll view itself. The default * value is false when `horizontal={true}` and true otherwise. */" />
       <item value="/** * Experimental: When true offscreen child views (whose `overflow` value is * `hidden`) are removed from their native backing superview when offscreen. * This canimprove scrolling performance on long lists. The default value is * false. */" />
       <item value="When true, ScrollView allows use of pinch gestures to zoom in and out. * The default value is true." />
-      <item value="Whether this view should render itself (and all of its children) into a single hardware texture on the GPU. * * On Android, this is useful for animations and interactions that only modify opacity, rotation, translation, and/or scale: * in those cases, the view doesn't have to be redrawn and display lists don't need to be re-executed. The texture can just be * re-used and re-composited with different parameters. The downside is that this can use up limited video memory, so this prop should be set back to false at the end of the interaction/animation." />
-      <item value="* A marker property for telling the list to re-render (since it implements PureComponent). * If any of your `renderItem`, Header, Footer, etc. functions depend on anything outside of the `data` prop, * stick it here and treat it immutably." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="98" />
-        <entry key="ENGLISH" value="99" />
+        <entry key="CHINESE" value="100" />
+        <entry key="ENGLISH" value="101" />
         <entry key="DUTCH" value="1" />
       </map>
     </option>
