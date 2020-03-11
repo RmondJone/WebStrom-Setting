@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="团险" />
       <item value="合并" />
       <item value="backforward" />
       <item value="Function that is invoked when the `WebView` loading starts or ends." />
@@ -50,7 +51,6 @@
       <item value="/** * Boolean value to disable Hardware Acceleration in the `WebView`. Used on Android only * as Hardware Acceleration is a feature only for Android. The default value is `false`. * @platform android */" />
       <item value="* Boolean value to disable Hardware Acceleration in the `WebView`. Used on Android only * as Hardware Acceleration is a feature only for Android. The default value is `false`. * @platform android" />
       <item value="/** * When true the scroll view bounces vertically when it reaches the end * even if the content is smaller than the scroll view itself. The default * value is false when `horizontal={true}` and true otherwise. */" />
-      <item value="/** * Experimental: When true offscreen child views (whose `overflow` value is * `hidden`) are removed from their native backing superview when offscreen. * This canimprove scrolling performance on long lists. The default value is * false. */" />
     </histories>
     <option name="languageScores">
       <map>
