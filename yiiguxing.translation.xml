@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="// usable IF device is physically present AND device is online AND // preparations are ready AND the device has no owner or we are the // owner" />
+      <item value="modify" />
       <item value="团险" />
       <item value="合并" />
       <item value="backforward" />
@@ -49,8 +51,6 @@
       <item value="We've failed to pass the specified git pre-commit hooks as the `git commit --amend`" />
       <item value="skip the git pre-commit hooks by adding the following flags to your commit" />
       <item value="/** * Boolean value to disable Hardware Acceleration in the `WebView`. Used on Android only * as Hardware Acceleration is a feature only for Android. The default value is `false`. * @platform android */" />
-      <item value="* Boolean value to disable Hardware Acceleration in the `WebView`. Used on Android only * as Hardware Acceleration is a feature only for Android. The default value is `false`. * @platform android" />
-      <item value="/** * When true the scroll view bounces vertically when it reaches the end * even if the content is smaller than the scroll view itself. The default * value is false when `horizontal={true}` and true otherwise. */" />
     </histories>
     <option name="languageScores">
       <map>
