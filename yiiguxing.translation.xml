@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="to Lower Case" />
+      <item value="Computes a new string in which hexadecimal escape sequences are replaced with the character that it represents." />
       <item value="// usable IF device is physically present AND device is online AND // preparations are ready AND the device has no owner or we are the // owner" />
       <item value="modify" />
       <item value="团险" />
@@ -49,13 +51,11 @@
       <item value="auto Correct" />
       <item value="Unexpected token" />
       <item value="We've failed to pass the specified git pre-commit hooks as the `git commit --amend`" />
-      <item value="skip the git pre-commit hooks by adding the following flags to your commit" />
-      <item value="/** * Boolean value to disable Hardware Acceleration in the `WebView`. Used on Android only * as Hardware Acceleration is a feature only for Android. The default value is `false`. * @platform android */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="101" />
-        <entry key="ENGLISH" value="102" />
+        <entry key="CHINESE" value="103" />
+        <entry key="ENGLISH" value="104" />
         <entry key="DUTCH" value="1" />
       </map>
     </option>
