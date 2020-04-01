@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Standard Android navigation transition when opening or closing an Activity on Android &lt; 9 (Oreo)." />
       <item value="to Lower Case" />
       <item value="Computes a new string in which hexadecimal escape sequences are replaced with the character that it represents." />
       <item value="// usable IF device is physically present AND device is online AND // preparations are ready AND the device has no owner or we are the // owner" />
@@ -50,12 +51,11 @@
       <item value="* Enables nested scrolling for Android API level 21+. * Nested scrolling is supported by default on iOS" />
       <item value="auto Correct" />
       <item value="Unexpected token" />
-      <item value="We've failed to pass the specified git pre-commit hooks as the `git commit --amend`" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="103" />
-        <entry key="ENGLISH" value="104" />
+        <entry key="CHINESE" value="104" />
+        <entry key="ENGLISH" value="105" />
         <entry key="DUTCH" value="1" />
       </map>
     </option>
