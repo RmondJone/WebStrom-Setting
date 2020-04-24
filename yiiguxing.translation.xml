@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Captures a manually created event and sends it to Sentry." />
       <item value=" Chokidar 2 will break on node v14+. Upgrade to chokidar 3 with 15x less dependencies." />
       <item value="deprecate " />
       <item value="GROWINGIO MODIFIED" />
@@ -9,7 +10,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="ENGLISH" value="3" />
       </map>
     </option>
   </component>
