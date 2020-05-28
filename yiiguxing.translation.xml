@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="有效期" />
+      <item value="证件有效期" />
       <item value="常量" />
       <item value="Boolean value to disable Hardware Acceleration in the `WebView`. Used on Android only * as Hardware Acceleration is a feature only for Android. The default value is `false`. * @platform android" />
       <item value="内存" />
