@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Call this method to un-subscribe from a native-event" />
       <item value="None of these files exist:   * node_modules\react-native\Libraries\Components\AccessibilityInfo\AccessibilityInfo(.native|.web.jsx|.native.jsx|.jsx|.web.js|.native.js|.js|.web.ts|.native.ts|.ts |.web.tsx|.native.tsx|.tsx|.web.json|.native.json|.json)   * node_modules\react-native\Libraries\Components\AccessibilityInfo\AccessibilityInfo\index(.native|.web.jsx|.native.jsx|.jsx|.web.js|.native.js|.js|.web.ts|.native. ts|.ts|.web.tsx|.native.tsx|.tsx|.web.json|.native.json|.json) (node:8708) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node. js process with a non-zero exit code. " />
       <item value="Waiting for the debugger to disconnect." />
       <item value="subscriber" />
@@ -29,7 +30,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="18" />
-        <entry key="ENGLISH" value="18" />
+        <entry key="ENGLISH" value="19" />
       </map>
     </option>
   </component>
