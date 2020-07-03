@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="verify" />
+      <item value="校验" />
       <item value="/** * Callback that is called when the text input's text changes. * Changed text is passed as an argument to the callback handler. */" />
       <item value="Ssh: Could not resolve hostname gitlab.com: Temporary failure in name resolution Could not read from remote repository. Please make sure you have the correct access rights and the repository exists." />
       <item value="排行" />
@@ -46,8 +48,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
-        <entry key="ENGLISH" value="34" />
+        <entry key="CHINESE" value="35" />
+        <entry key="ENGLISH" value="35" />
       </map>
     </option>
   </component>
