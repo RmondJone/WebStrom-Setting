@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Premium" />
+      <item value="annualPremium" />
       <item value="verify" />
       <item value="校验" />
       <item value="/** * Callback that is called when the text input's text changes. * Changed text is passed as an argument to the callback handler. */" />
