@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="预约" />
       <item value="complete" />
       <item value="完成" />
       <item value="Benefit" />
@@ -54,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="38" />
-        <entry key="ENGLISH" value="38" />
+        <entry key="ENGLISH" value="39" />
       </map>
     </option>
   </component>
