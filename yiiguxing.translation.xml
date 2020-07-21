@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" reason: getaddrinfo ENOTFOUND registry.npmjs.org registry.npmjs.org:8" />
+      <item value="user guohanlin is not allowed to publish package react-native-locktable " />
       <item value="家庭保单预约" />
       <item value="保单预约" />
       <item value="exclude" />
@@ -49,12 +51,10 @@
       <item value="Waiting for the debugger to disconnect." />
       <item value="subscriber" />
       <item value="CERT HAS EXPIRED" />
-      <item value="None of these files exist" />
-      <item value="react" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
+        <entry key="CHINESE" value="46" />
         <entry key="ENGLISH" value="46" />
       </map>
     </option>
