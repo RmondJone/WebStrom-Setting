@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="peer Dependencies" />
       <item value="react-native@0.63.1: The engine &quot;node&quot; is incompatible with this module. Expected version &quot;&gt;=10&quot;. Got &quot;8.17.0&quot;" />
       <item value="Encodes a text string as a valid Uniform Resource Identifier" />
       <item value="商业险保费" />
@@ -50,12 +51,11 @@
       <item value="有效期" />
       <item value="证件有效期" />
       <item value="常量" />
-      <item value="Boolean value to disable Hardware Acceleration in the `WebView`. Used on Android only * as Hardware Acceleration is a feature only for Android. The default value is `false`. * @platform android" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="40" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="ENGLISH" value="41" />
       </map>
     </option>
   </component>
