@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exclude" />
       <item value=" because it would overwrite input file." />
       <item value="Tables that can be locked in both directions on react native" />
       <item value="可以双向锁定的表格" />
@@ -50,12 +51,11 @@
       <item value="react" />
       <item value="Starting a Gradle Daemon, 1 busy Daemon could not be reused, use --status for details" />
       <item value="Running jetifier to migrate libraries to AndroidX. You can disable it using &quot;--no-jetifier&quot; flag." />
-      <item value="You can disable it using &quot;--no-jetifier&quot; flag." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="44" />
+        <entry key="ENGLISH" value="45" />
       </map>
     </option>
   </component>
