@@ -1,0 +1,62 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="列" />
+      <item value="* If native client is available it will trigger a native crash. * Use this only for testing purposes." />
+      <item value="投保" />
+      <item value="first" />
+      <item value=" reason: getaddrinfo ENOTFOUND registry.npmjs.org registry.npmjs.org:8" />
+      <item value="user guohanlin is not allowed to publish package react-native-locktable " />
+      <item value="家庭保单预约" />
+      <item value="保单预约" />
+      <item value="exclude" />
+      <item value=" because it would overwrite input file." />
+      <item value="Tables that can be locked in both directions on react native" />
+      <item value="可以双向锁定的表格" />
+      <item value="MIT License Copyright (c) 2018 indiespirit Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE." />
+      <item value="King Tortoise" />
+      <item value="peer Dependencies" />
+      <item value="react-native@0.63.1: The engine &quot;node&quot; is incompatible with this module. Expected version &quot;&gt;=10&quot;. Got &quot;8.17.0&quot;" />
+      <item value="Encodes a text string as a valid Uniform Resource Identifier" />
+      <item value="商业险保费" />
+      <item value="交强险保费" />
+      <item value="结束时间" />
+      <item value="开始时间" />
+      <item value="商业险保单号" />
+      <item value="交强险保单号" />
+      <item value="保险公司" />
+      <item value="预约" />
+      <item value="complete" />
+      <item value="完成" />
+      <item value="Benefit" />
+      <item value="benefit" />
+      <item value="Premium" />
+      <item value="annualPremium" />
+      <item value="verify" />
+      <item value="校验" />
+      <item value="/** * Callback that is called when the text input's text changes. * Changed text is passed as an argument to the callback handler. */" />
+      <item value="Ssh: Could not resolve hostname gitlab.com: Temporary failure in name resolution Could not read from remote repository. Please make sure you have the correct access rights and the repository exists." />
+      <item value="排行" />
+      <item value="排海" />
+      <item value="天气" />
+      <item value="/** * Automatically animates views to their new positions when the * next layout happens. * * A common way to use this API is to call it before calling `setState`. * * Note that in order to get this to work on **Android** you need to set the following flags via `UIManager`: * * UIManager.setLayoutAnimationEnabledExperimental &amp;&amp; UIManager.setLayoutAnimationEnabledExperimental(true); */" />
+      <item value="* When true the scroll view stops on multiples of the scroll view's size * when scrolling. This can be used for horizontal pagination. The default * value is false." />
+      <item value="* When true the scroll view's children are arranged horizontally in a row * instead of vertically in a column. The default value is false." />
+      <item value="This controls how often the scroll event will be fired while scrolling (in events per seconds). * A higher number yields better accuracy for code that is tracking the scroll position, * but can lead to scroll performance problems due to the volume of information being send over the bridge. * The default value is zero, which means the scroll event will be sent only once each time the view is scrolled." />
+      <item value="The `presentationStyle` determines the style of modal to show" />
+      <item value="Controls whether to force hardware acceleration for the underlying window." />
+      <item value="The path to a sourcemap that should be uploaded" />
+      <item value="init moduleIdsJsonObj from file" />
+      <item value="Params for this route" />
+      <item value="Hook to access the route prop of the parent screen anywhere" />
+      <item value="Push a new screen onto the stack" />
+      <item value="Call this method to un-subscribe from a native-event" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="49" />
+        <entry key="ENGLISH" value="50" />
+      </map>
+    </option>
+  </component>
+</application>
