@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="高度" />
       <item value="列" />
+      <item value="高度" />
       <item value="* If native client is available it will trigger a native crash. * Use this only for testing purposes." />
       <item value="投保" />
       <item value="first" />
