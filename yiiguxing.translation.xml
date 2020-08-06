@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" also called &quot;react-native-locktable&quot;. Did you name your project the same npm ERR! as the dependency you're installing? " />
+      <item value="Refusing to install package with name &quot;react-native-locktable&quot; under a package" />
       <item value="/** * When true the scroll view bounces when it reaches the end of the * content if the content is larger then the scroll view along the axis of * the scroll direction. When false it disables all bouncing even if * the `alwaysBounce*` props are true. The default value is true. */" />
       <item value="列" />
       <item value="高度" />
@@ -49,12 +51,10 @@
       <item value="Controls whether to force hardware acceleration for the underlying window." />
       <item value="The path to a sourcemap that should be uploaded" />
       <item value="init moduleIdsJsonObj from file" />
-      <item value="Params for this route" />
-      <item value="Hook to access the route prop of the parent screen anywhere" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="50" />
+        <entry key="CHINESE" value="51" />
         <entry key="ENGLISH" value="51" />
       </map>
     </option>
