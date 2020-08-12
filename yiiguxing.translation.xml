@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="腾讯云" />
       <item value="快照" />
       <item value=" If you were trying to login, change your password, create an npm ERR! authentication token or enable two-factor authentication then npm ERR! that means you likely typed your password in incorrectly. npm ERR! Please try again, or recover your password at: " />
       <item value="This is a problem related to network connectivity." />
@@ -50,7 +51,6 @@
       <item value="/** * Callback that is called when the text input's text changes. * Changed text is passed as an argument to the callback handler. */" />
       <item value="Ssh: Could not resolve hostname gitlab.com: Temporary failure in name resolution Could not read from remote repository. Please make sure you have the correct access rights and the repository exists." />
       <item value="排行" />
-      <item value="排海" />
     </histories>
     <option name="languageScores">
       <map>
