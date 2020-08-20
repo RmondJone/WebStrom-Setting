@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="多云" />
+      <item value="阴天" />
+      <item value="雨天" />
+      <item value="晴天" />
+      <item value="晴" />
+      <item value="雪" />
+      <item value="小雪" />
+      <item value="雾" />
       <item value="闪电" />
       <item value="Computes a new string in which hexadecimal escape sequences are replaced with the character that it represents." />
       <item value="腾讯云" />
@@ -43,14 +51,6 @@
       <item value="保险公司" />
       <item value="预约" />
       <item value="complete" />
-      <item value="完成" />
-      <item value="Benefit" />
-      <item value="benefit" />
-      <item value="Premium" />
-      <item value="annualPremium" />
-      <item value="verify" />
-      <item value="校验" />
-      <item value="/** * Callback that is called when the text input's text changes. * Changed text is passed as an argument to the callback handler. */" />
     </histories>
     <option name="languageScores">
       <map>
