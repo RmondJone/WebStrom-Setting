@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="备注" />
       <item value="提醒版本" />
       <item value="平台" />
       <item value="更新描述" />
@@ -50,7 +51,6 @@
       <item value="peer Dependencies" />
       <item value="react-native@0.63.1: The engine &quot;node&quot; is incompatible with this module. Expected version &quot;&gt;=10&quot;. Got &quot;8.17.0&quot;" />
       <item value="Encodes a text string as a valid Uniform Resource Identifier" />
-      <item value="商业险保费" />
     </histories>
     <option name="languageScores">
       <map>
