@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="平台" />
       <item value="更新描述" />
       <item value="状态" />
-      <item value="平台" />
       <item value="No tracked branch configured for branch master or the branch doesn't exist." />
       <item value="描述" />
       <item value="实时天气" />
