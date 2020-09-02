@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="计算距离" />
       <item value="附近加油站" />
       <item value="附近加油" />
       <item value="reminder Version" />
@@ -50,7 +51,6 @@
       <item value="保单预约" />
       <item value="exclude" />
       <item value=" because it would overwrite input file." />
-      <item value="Tables that can be locked in both directions on react native" />
     </histories>
     <option name="languageScores">
       <map>
