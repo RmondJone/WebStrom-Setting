@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="After resolving conflicts you also probably would want to commit your files to the current branch." />
+      <item value="Committing is not possible because you have unmerged files" />
       <item value="save to a temporary file (that will only exist for as long as the app is running)" />
       <item value="same as base64 but also includes the Data URI scheme header" />
       <item value="计算距离" />
@@ -49,13 +51,11 @@
       <item value="first" />
       <item value=" reason: getaddrinfo ENOTFOUND registry.npmjs.org registry.npmjs.org:8" />
       <item value="user guohanlin is not allowed to publish package react-native-locktable " />
-      <item value="家庭保单预约" />
-      <item value="保单预约" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="64" />
-        <entry key="ENGLISH" value="65" />
+        <entry key="CHINESE" value="66" />
+        <entry key="ENGLISH" value="67" />
       </map>
     </option>
   </component>
