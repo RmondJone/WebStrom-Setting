@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Define stroke line join type" />
+      <item value="Defines the second color opacity in the linear gradient of a chart's background" />
       <item value="After resolving conflicts you also probably would want to commit your files to the current branch." />
       <item value="Committing is not possible because you have unmerged files" />
       <item value="save to a temporary file (that will only exist for as long as the app is running)" />
@@ -49,13 +51,11 @@
       <item value="* If native client is available it will trigger a native crash. * Use this only for testing purposes." />
       <item value="投保" />
       <item value="first" />
-      <item value=" reason: getaddrinfo ENOTFOUND registry.npmjs.org registry.npmjs.org:8" />
-      <item value="user guohanlin is not allowed to publish package react-native-locktable " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="66" />
-        <entry key="ENGLISH" value="67" />
+        <entry key="CHINESE" value="68" />
+        <entry key="ENGLISH" value="69" />
       </map>
     </option>
   </component>
