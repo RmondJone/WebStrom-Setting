@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="resolve Asset Source" />
       <item value="/** * Initial dimensions are set before runApplication is called so they * should be available before any other require's are run, but may be * updated later. * Note: Although dimensions are available immediately, they may * change (e.g due to device rotation) so any rendering logic or * styles that depend on these constants should try to call this * function on every render, rather than caching the value (for * example, using inline styles rather than setting a value in a * StyleSheet). * Example: const {height, width} = Dimensions.get('window'); @param dim Name of dimension as defined when calling set. @returns Value for the dimension. */" />
       <item value="Balance" />
       <item value="Boolean that controls whether the web content is scaled to fit * the view and enables the user to change the scale. The default value * is `true`." />
@@ -50,12 +51,11 @@
       <item value="Set the types property to point to your bundled declaration file" />
       <item value="Note that the \&quot;typings\&quot; field is synonymous with \&quot;types\&quot;, and could be used as well." />
       <item value="Specifies the location where debugger should locate TypeScript files instead of source locations" />
-      <item value="Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="75" />
-        <entry key="ENGLISH" value="76" />
+        <entry key="CHINESE" value="76" />
+        <entry key="ENGLISH" value="77" />
       </map>
     </option>
   </component>
