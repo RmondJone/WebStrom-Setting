@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Extra Native Component Config." />
+      <item value="* Sets whether the webview allow access to file system." />
+      <item value="* Boolean that sets whether JavaScript running in the context of a file * scheme URL should be allowed to access content from other file scheme URLs. * Including accessing content from other file scheme URLs" />
       <item value="resolve Asset Source" />
       <item value="/** * Initial dimensions are set before runApplication is called so they * should be available before any other require's are run, but may be * updated later. * Note: Although dimensions are available immediately, they may * change (e.g due to device rotation) so any rendering logic or * styles that depend on these constants should try to call this * function on every render, rather than caching the value (for * example, using inline styles rather than setting a value in a * StyleSheet). * Example: const {height, width} = Dimensions.get('window'); @param dim Name of dimension as defined when calling set. @returns Value for the dimension. */" />
       <item value="Balance" />
@@ -48,14 +51,11 @@
       <item value=" If you were trying to login, change your password, create an npm ERR! authentication token or enable two-factor authentication then npm ERR! that means you likely typed your password in incorrectly. npm ERR! Please try again, or recover your password at: " />
       <item value="This is a problem related to network connectivity." />
       <item value="The main field is a module ID that is the primary entry point to your program." />
-      <item value="Set the types property to point to your bundled declaration file" />
-      <item value="Note that the \&quot;typings\&quot; field is synonymous with \&quot;types\&quot;, and could be used as well." />
-      <item value="Specifies the location where debugger should locate TypeScript files instead of source locations" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="76" />
-        <entry key="ENGLISH" value="77" />
+        <entry key="CHINESE" value="79" />
+        <entry key="ENGLISH" value="80" />
       </map>
     </option>
   </component>
