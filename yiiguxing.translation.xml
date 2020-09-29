@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Don't render a screen if we've never navigated to it" />
       <item value="* Set this to provide JavaScript that will be injected into the web page * once the webview is initialized but before the view loads any content." />
       <item value="/** * Set this to provide JavaScript that will be injected into the web page * once the webview is initialized but before the view loads any content. */" />
       <item value="Extra Native Component Config." />
@@ -50,12 +51,11 @@
       <item value="Computes a new string in which hexadecimal escape sequences are replaced with the character that it represents." />
       <item value="腾讯云" />
       <item value="快照" />
-      <item value=" If you were trying to login, change your password, create an npm ERR! authentication token or enable two-factor authentication then npm ERR! that means you likely typed your password in incorrectly. npm ERR! Please try again, or recover your password at: " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="81" />
-        <entry key="ENGLISH" value="82" />
+        <entry key="CHINESE" value="82" />
+        <entry key="ENGLISH" value="83" />
       </map>
     </option>
   </component>
