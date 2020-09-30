@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="construct" />
+      <item value="构造" />
       <item value="Need collapsable=false here to clip the elevations, otherwise they appear above sibling components" />
       <item value="fix react native web does not support DeviceEventEmitter" />
       <item value="Emits an event of the given type with the given data. All handlers of that * particular type will be notified." />
@@ -49,13 +51,11 @@
       <item value="晴" />
       <item value="雪" />
       <item value="小雪" />
-      <item value="雾" />
-      <item value="闪电" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="85" />
-        <entry key="ENGLISH" value="86" />
+        <entry key="CHINESE" value="87" />
+        <entry key="ENGLISH" value="87" />
       </map>
     </option>
   </component>
