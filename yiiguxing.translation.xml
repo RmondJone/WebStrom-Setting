@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="money Table Flag" />
       <item value="Add every directory that needs to be compiled by Babel during the build." />
       <item value="// If you're working on a multi-platform React Native app, web-specific // module implementations should be written in files using the extension // `.web.js`." />
       <item value="合法" />
@@ -50,12 +51,11 @@
       <item value="预报" />
       <item value="多云" />
       <item value="阴天" />
-      <item value="雨天" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="90" />
-        <entry key="ENGLISH" value="91" />
+        <entry key="CHINESE" value="91" />
+        <entry key="ENGLISH" value="92" />
       </map>
     </option>
   </component>
