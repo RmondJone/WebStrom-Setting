@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Set true if shared cookies from HTTPCookieStorage should used for every load request." />
       <item value="money Table Flag" />
       <item value="Add every directory that needs to be compiled by Babel during the build." />
       <item value="// If you're working on a multi-platform React Native app, web-specific // module implementations should be written in files using the extension // `.web.js`." />
@@ -50,12 +51,11 @@
       <item value="实时天气" />
       <item value="预报" />
       <item value="多云" />
-      <item value="阴天" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="91" />
-        <entry key="ENGLISH" value="92" />
+        <entry key="CHINESE" value="92" />
+        <entry key="ENGLISH" value="93" />
       </map>
     </option>
   </component>
