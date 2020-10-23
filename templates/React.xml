@@ -247,7 +247,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="initHook" value="import {StyleSheet, View} from 'react-native';&#10;&#10;interface Props {}&#10;&#10;/**&#10; * 注释:&#10; * 时间: $a$ $b$&#10; * @author 郭翰林&#10; * @param props&#10; * @constructor&#10; */&#10;export default function $c$(props: Props) {&#10;  return &lt;View style={{flex: 1}} /&gt;;&#10;}&#10;&#10;$c$.defaultProps = {};&#10;&#10;const styles = StyleSheet.create({});&#10;" description="初始化Hook组件" toReformat="false" toShortenFQNames="true">
+  <template name="initHook" value="import {StyleSheet, View} from 'react-native';&#10;import React from &quot;react&quot;;&#10;&#10;interface Props {}&#10;&#10;/**&#10; * 注释:&#10; * 时间: $a$ $b$&#10; * @author 郭翰林&#10; * @param props&#10; * @constructor&#10; */&#10;export default function $c$(props: Props) {&#10;  return &lt;View style={{flex: 1}} /&gt;;&#10;}&#10;&#10;const styles = StyleSheet.create({});&#10;" description="初始化Hook组件" toReformat="false" toShortenFQNames="true">
     <variable name="a" expression="date()" defaultValue="" alwaysStopAt="true" />
     <variable name="b" expression="time()" defaultValue="" alwaysStopAt="true" />
     <variable name="c" expression="classNameComplete()" defaultValue="" alwaysStopAt="true" />
