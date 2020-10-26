@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="/** * How far from the end (in units of visible length of the list) the bottom edge of the * list must be from the end of the content to trigger the `onEndReached` callback. * Thus a value of 0.5 will trigger `onEndReached` when the end of the content is * within half the visible length of the list. */" />
+      <item value="Called once when the scroll position gets within onEndReachedThreshold of the rendered content." />
+      <item value="/** * How far from the end (in units of visible length of the list) the bottom edge of the * list must be from the end of the content to trigger the `onEndReached` callback. * Thus a value of 0.5 will trigger `onEndReached` when the end of the content is * within half the visible length of the list." />
       <item value="广告" />
       <item value="* Set props directly on the native component WebView. Enables custom props which the * original WebView doesn't pass through." />
       <item value="Does this view want to become responder on the start of a touch?" />
@@ -48,14 +51,11 @@
       <item value="Add every directory that needs to be compiled by Babel during the build." />
       <item value="// If you're working on a multi-platform React Native app, web-specific // module implementations should be written in files using the extension // `.web.js`." />
       <item value="合法" />
-      <item value="地址" />
-      <item value="construct" />
-      <item value="构造" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="119" />
+        <entry key="CHINESE" value="122" />
+        <entry key="ENGLISH" value="123" />
       </map>
     </option>
   </component>
