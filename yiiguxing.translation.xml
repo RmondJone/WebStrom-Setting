@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="动画" />
+      <item value="平移动画" />
+      <item value="平移" />
       <item value="expansion" />
       <item value="展开" />
       <item value="帮选" />
@@ -48,14 +51,11 @@
       <item value="Don't render a screen if we've never navigated to it" />
       <item value="* Set this to provide JavaScript that will be injected into the web page * once the webview is initialized but before the view loads any content." />
       <item value="/** * Set this to provide JavaScript that will be injected into the web page * once the webview is initialized but before the view loads any content. */" />
-      <item value="Extra Native Component Config." />
-      <item value="* Sets whether the webview allow access to file system." />
-      <item value="* Boolean that sets whether JavaScript running in the context of a file * scheme URL should be allowed to access content from other file scheme URLs. * Including accessing content from other file scheme URLs" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="110" />
-        <entry key="ENGLISH" value="110" />
+        <entry key="ENGLISH" value="111" />
       </map>
     </option>
   </component>
