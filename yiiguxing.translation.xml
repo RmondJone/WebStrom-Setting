@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="缩小" />
+      <item value="expansion" />
+      <item value="展开" />
+      <item value="广告" />
+      <item value="置顶" />
+      <item value="分页" />
+      <item value="客服" />
+      <item value="悬浮" />
       <item value="足迹" />
       <item value="The X position of the touch, relative to the screen" />
       <item value="Fires when scroll view has finished moving" />
@@ -43,19 +51,11 @@
       <item value="* Sets whether the webview allow access to file system." />
       <item value="* Boolean that sets whether JavaScript running in the context of a file * scheme URL should be allowed to access content from other file scheme URLs. * Including accessing content from other file scheme URLs" />
       <item value="resolve Asset Source" />
-      <item value="/** * Initial dimensions are set before runApplication is called so they * should be available before any other require's are run, but may be * updated later. * Note: Although dimensions are available immediately, they may * change (e.g due to device rotation) so any rendering logic or * styles that depend on these constants should try to call this * function on every render, rather than caching the value (for * example, using inline styles rather than setting a value in a * StyleSheet). * Example: const {height, width} = Dimensions.get('window'); @param dim Name of dimension as defined when calling set. @returns Value for the dimension. */" />
-      <item value="Balance" />
-      <item value="Boolean that controls whether the web content is scaled to fit * the view and enables the user to change the scale. The default value * is `true`." />
-      <item value="WebView will not allow a secure origin to load content from an insecure origin." />
-      <item value="Sets number that controls text zoom of the page in percent." />
-      <item value="补充" />
-      <item value="initialize" />
-      <item value="初始化" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="108" />
-        <entry key="ENGLISH" value="109" />
+        <entry key="CHINESE" value="109" />
+        <entry key="ENGLISH" value="110" />
       </map>
     </option>
   </component>
