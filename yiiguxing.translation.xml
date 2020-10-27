@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Converts plain (literal) object to class (constructor) object. Also works with arrays" />
       <item value="次级" />
       <item value="二级" />
       <item value="tail Type" />
@@ -50,12 +51,11 @@
       <item value="头条" />
       <item value="广告区" />
       <item value="Enable debug functionality in the SDK itself" />
-      <item value="Sets the distribution for all events" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="127" />
-        <entry key="ENGLISH" value="128" />
+        <entry key="CHINESE" value="128" />
+        <entry key="ENGLISH" value="129" />
       </map>
     </option>
   </component>
