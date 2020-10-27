@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="/** * Minimum amount of time (in milliseconds) that an item must be physically viewable before the * viewability callback will be fired. A high number means that scrolling through content without * stopping will not mark the content as viewable. */" />
+      <item value="* Nothing is considered viewable until the user scrolls or `recordInteraction` is called after * render." />
       <item value="/** * How far from the end (in units of visible length of the list) the bottom edge of the * list must be from the end of the content to trigger the `onEndReached` callback. * Thus a value of 0.5 will trigger `onEndReached` when the end of the content is * within half the visible length of the list. */" />
       <item value="Called once when the scroll position gets within onEndReachedThreshold of the rendered content." />
       <item value="/** * How far from the end (in units of visible length of the list) the bottom edge of the * list must be from the end of the content to trigger the `onEndReached` callback. * Thus a value of 0.5 will trigger `onEndReached` when the end of the content is * within half the visible length of the list." />
@@ -30,7 +32,6 @@
       <item value="/** * Nothing is considered viewable until the user scrolls or `recordInteraction` is called after * render. */" />
       <item value="/** * Percent of viewport that must be covered for a partially occluded item to count as * &quot;viewable&quot;, 0-100. Fully visible items are always considered viewable. A value of 0 means * that a single pixel in the viewport makes the item viewable, and a value of 100 means that * an item must be either entirely visible or cover the entire viewport to count as viewable. */" />
       <item value="/** * Similar to `viewAreaPercentThreshold`, but considers the percent of the item that is visible, * rather than the fraction of the viewable area it covers. */" />
-      <item value="/** * Minimum amount of time (in milliseconds) that an item must be physically viewable before the * viewability callback will be fired. A high number means that scrolling through content without * stopping will not mark the content as viewable. */" />
       <item value="Minimum amount of time (in milliseconds) that an item must be physically viewable before the * viewability callback will be fired. A high number means that scrolling through content without * stopping will not mark the content as viewable." />
       <item value="See `ViewabilityHelper` for flow type and further documentation." />
       <item value="联系" />
@@ -50,12 +51,11 @@
       <item value="money Table Flag" />
       <item value="Add every directory that needs to be compiled by Babel during the build." />
       <item value="// If you're working on a multi-platform React Native app, web-specific // module implementations should be written in files using the extension // `.web.js`." />
-      <item value="合法" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="122" />
-        <entry key="ENGLISH" value="123" />
+        <entry key="CHINESE" value="124" />
+        <entry key="ENGLISH" value="125" />
       </map>
     </option>
   </component>
