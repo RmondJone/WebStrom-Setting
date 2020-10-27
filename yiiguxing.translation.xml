@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="xports some data, e.g. for perf investigations or analytics." />
       <item value="/** * Minimum amount of time (in milliseconds) that an item must be physically viewable before the * viewability callback will be fired. A high number means that scrolling through content without * stopping will not mark the content as viewable. */" />
       <item value="* Nothing is considered viewable until the user scrolls or `recordInteraction` is called after * render." />
       <item value="/** * How far from the end (in units of visible length of the list) the bottom edge of the * list must be from the end of the content to trigger the `onEndReached` callback. * Thus a value of 0.5 will trigger `onEndReached` when the end of the content is * within half the visible length of the list. */" />
@@ -50,12 +51,11 @@
       <item value="Set true if shared cookies from HTTPCookieStorage should used for every load request." />
       <item value="money Table Flag" />
       <item value="Add every directory that needs to be compiled by Babel during the build." />
-      <item value="// If you're working on a multi-platform React Native app, web-specific // module implementations should be written in files using the extension // `.web.js`." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="124" />
-        <entry key="ENGLISH" value="125" />
+        <entry key="CHINESE" value="125" />
+        <entry key="ENGLISH" value="126" />
       </map>
     </option>
   </component>
