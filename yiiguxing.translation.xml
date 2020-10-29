@@ -1,11 +1,61 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="precise" />
+      <item value="hide" />
+      <item value="隐藏" />
+      <item value="分类" />
+      <item value="/** * This controls how often the scroll event will be fired while scrolling (in events per seconds). * A higher number yields better accuracy for code that is tracking the scroll position, * but can lead to scroll performance problems due to the volume of information being send over the bridge. * The default value is zero, which means the scroll event will be sent only once each time the view is scrolled. */" />
+      <item value="保存数据" />
+      <item value="专辑" />
+      <item value="Converts plain (literal) object to class (constructor) object. Also works with arrays" />
+      <item value="次级" />
+      <item value="二级" />
+      <item value="tail Type" />
+      <item value="xports some data, e.g. for perf investigations or analytics." />
+      <item value="/** * Minimum amount of time (in milliseconds) that an item must be physically viewable before the * viewability callback will be fired. A high number means that scrolling through content without * stopping will not mark the content as viewable. */" />
+      <item value="* Nothing is considered viewable until the user scrolls or `recordInteraction` is called after * render." />
+      <item value="/** * How far from the end (in units of visible length of the list) the bottom edge of the * list must be from the end of the content to trigger the `onEndReached` callback. * Thus a value of 0.5 will trigger `onEndReached` when the end of the content is * within half the visible length of the list. */" />
+      <item value="Called once when the scroll position gets within onEndReachedThreshold of the rendered content." />
+      <item value="/** * How far from the end (in units of visible length of the list) the bottom edge of the * list must be from the end of the content to trigger the `onEndReached` callback. * Thus a value of 0.5 will trigger `onEndReached` when the end of the content is * within half the visible length of the list." />
+      <item value="广告" />
+      <item value="* Set props directly on the native component WebView. Enables custom props which the * original WebView doesn't pass through." />
+      <item value="Does this view want to become responder on the start of a touch?" />
+      <item value="Something else is the responder right now and will not release it" />
+      <item value="The View is now responding for touch events. * This is the time to highlight and show the user what is happening */" />
+      <item value="Focuses on WebView redered page." />
+      <item value="The X position of the touch, relative to the screen" />
+      <item value="The X position of the touch, relative to the element" />
+      <item value="动画" />
+      <item value="平移动画" />
+      <item value="平移" />
+      <item value="expansion" />
+      <item value="展开" />
+      <item value="帮选" />
+      <item value="缩小" />
+      <item value="置顶" />
+      <item value="分页" />
+      <item value="客服" />
+      <item value="悬浮" />
+      <item value="足迹" />
+      <item value="Fires when scroll view has finished moving" />
+      <item value="Fires if a user initiates a scroll gesture." />
+      <item value="Fires when scroll view has begun moving" />
+      <item value="/** * Nothing is considered viewable until the user scrolls or `recordInteraction` is called after * render. */" />
+      <item value="/** * Percent of viewport that must be covered for a partially occluded item to count as * &quot;viewable&quot;, 0-100. Fully visible items are always considered viewable. A value of 0 means * that a single pixel in the viewport makes the item viewable, and a value of 100 means that * an item must be either entirely visible or cover the entire viewport to count as viewable. */" />
+      <item value="/** * Similar to `viewAreaPercentThreshold`, but considers the percent of the item that is visible, * rather than the fraction of the viewable area it covers. */" />
+      <item value="Minimum amount of time (in milliseconds) that an item must be physically viewable before the * viewability callback will be fired. A high number means that scrolling through content without * stopping will not mark the content as viewable." />
+      <item value="See `ViewabilityHelper` for flow type and further documentation." />
+      <item value="联系" />
+      <item value="联系方式" />
+      <item value="文章" />
+      <item value="已停售" />
+      <item value="挑选" />
+      <item value="二级分类" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1" />
+        <entry key="CHINESE" value="132" />
+        <entry key="ENGLISH" value="132" />
       </map>
     </option>
   </component>
