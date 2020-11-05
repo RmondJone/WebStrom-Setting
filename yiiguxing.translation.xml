@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="距离" />
+      <item value="隐藏" />
+      <item value="animation" />
       <item value="推广费" />
       <item value="hide" />
-      <item value="隐藏" />
       <item value="分类" />
       <item value="/** * This controls how often the scroll event will be fired while scrolling (in events per seconds). * A higher number yields better accuracy for code that is tracking the scroll position, * but can lead to scroll performance problems due to the volume of information being send over the bridge. * The default value is zero, which means the scroll event will be sent only once each time the view is scrolled. */" />
       <item value="保存数据" />
@@ -49,13 +51,11 @@
       <item value="联系" />
       <item value="联系方式" />
       <item value="文章" />
-      <item value="已停售" />
-      <item value="挑选" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="132" />
-        <entry key="ENGLISH" value="133" />
+        <entry key="CHINESE" value="134" />
+        <entry key="ENGLISH" value="135" />
       </map>
     </option>
   </component>
