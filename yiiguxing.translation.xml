@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="/** * Boolean that sets whether JavaScript running in the context of a file * scheme URL should be allowed to access content from any origin. * Including accessing content from other file scheme URLs * @platform android */" />
+      <item value="/** * Sets whether the webview allow access to file system. * @platform android */" />
+      <item value="/** * Sets number that controls text zoom of the page in percent. * @platform android */" />
+      <item value="/** * Specifies the mixed content mode. i.e WebView will allow a secure origin to load content from any other origin. * * Possible values for `mixedContentMode` are: * * - `'never'` (default) - WebView will not allow a secure origin to load content from an insecure origin. * - `'always'` - WebView will allow a secure origin to load content from any other origin, even if that origin is insecure. * - `'compatibility'` - WebView will attempt to be compatible with the approach of a modern web browser with regard to mixed content. * @platform android */" />
+      <item value="/** * Boolean value to enable third party cookies in the `WebView`. Used on * Android Lollipop and above only as third party cookies are enabled by * default on Android Kitkat and below and on iOS. The default value is `true`. * @platform android */" />
       <item value="距离" />
       <item value="隐藏" />
       <item value="animation" />
@@ -46,16 +51,11 @@
       <item value="/** * Nothing is considered viewable until the user scrolls or `recordInteraction` is called after * render. */" />
       <item value="/** * Percent of viewport that must be covered for a partially occluded item to count as * &quot;viewable&quot;, 0-100. Fully visible items are always considered viewable. A value of 0 means * that a single pixel in the viewport makes the item viewable, and a value of 100 means that * an item must be either entirely visible or cover the entire viewport to count as viewable. */" />
       <item value="/** * Similar to `viewAreaPercentThreshold`, but considers the percent of the item that is visible, * rather than the fraction of the viewable area it covers. */" />
-      <item value="Minimum amount of time (in milliseconds) that an item must be physically viewable before the * viewability callback will be fired. A high number means that scrolling through content without * stopping will not mark the content as viewable." />
-      <item value="See `ViewabilityHelper` for flow type and further documentation." />
-      <item value="联系" />
-      <item value="联系方式" />
-      <item value="文章" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="134" />
-        <entry key="ENGLISH" value="135" />
+        <entry key="CHINESE" value="140" />
+        <entry key="ENGLISH" value="141" />
       </map>
     </option>
   </component>
