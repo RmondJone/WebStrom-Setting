@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="理赔" />
       <item value="距离" />
       <item value="分页" />
       <item value="/** * List of origin strings to allow being navigated to. The strings allow * wildcards and get matched against *just* the origin (not the full URL). * If the user taps to navigate to a new page but the new page is not in * this whitelist, we will open the URL in Safari. * The default whitelisted origins are &quot;http://*&quot; and &quot;https://*&quot;. */" />
@@ -50,7 +51,6 @@
       <item value="Fires if a user initiates a scroll gesture." />
       <item value="Fires when scroll view has begun moving" />
       <item value="/** * Nothing is considered viewable until the user scrolls or `recordInteraction` is called after * render. */" />
-      <item value="/** * Percent of viewport that must be covered for a partially occluded item to count as * &quot;viewable&quot;, 0-100. Fully visible items are always considered viewable. A value of 0 means * that a single pixel in the viewport makes the item viewable, and a value of 100 means that * an item must be either entirely visible or cover the entire viewport to count as viewable. */" />
     </histories>
     <option name="languageScores">
       <map>
