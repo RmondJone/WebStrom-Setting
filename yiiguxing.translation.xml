@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="发生" />
+      <item value="发生时间" />
       <item value="申请人" />
       <item value="容器" />
       <item value="理赔" />
@@ -49,8 +51,6 @@
       <item value="客服" />
       <item value="悬浮" />
       <item value="足迹" />
-      <item value="Fires when scroll view has finished moving" />
-      <item value="Fires if a user initiates a scroll gesture." />
     </histories>
     <option name="languageScores">
       <map>
