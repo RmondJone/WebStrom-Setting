@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="团险" />
       <item value="理赔项目" />
       <item value="expansion" />
       <item value="展开" />
@@ -50,7 +51,6 @@
       <item value="Focuses on WebView redered page." />
       <item value="The X position of the touch, relative to the screen" />
       <item value="The X position of the touch, relative to the element" />
-      <item value="动画" />
     </histories>
     <option name="languageScores">
       <map>
