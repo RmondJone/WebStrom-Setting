@@ -256,7 +256,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="initDivHook" value="import React from &quot;react&quot;;&#10;&#10;interface Props {}&#10;&#10;/**&#10; * 注释: &#10; * 时间:$a$&#10; * @author 郭翰林&#10; * @param props&#10; * @constructor&#10; */&#10;export default function $d$(props: Props) {&#10;  return &lt;div/&gt;;&#10;}&#10;" toReformat="false" toShortenFQNames="true">
+  <template name="initDivHook" value="import React from &quot;react&quot;;&#10;&#10;interface Props {}&#10;&#10;/**&#10; * 注释: &#10; * 时间:$a$&#10; * @author 郭翰林&#10; * @param props&#10; * @constructor&#10; */&#10;export default function $d$(props: Props) {&#10;  return &lt;div/&gt;;&#10;}&#10;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="a" expression="date()" defaultValue="" alwaysStopAt="true" />
     <variable name="d" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
     <context>
