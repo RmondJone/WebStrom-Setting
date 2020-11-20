@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="计划起飞时间" />
+      <item value="航班号" />
       <item value="诊断结果" />
       <item value="理赔描述" />
       <item value="申请人" />
@@ -49,8 +51,6 @@
       <item value="/** * How far from the end (in units of visible length of the list) the bottom edge of the * list must be from the end of the content to trigger the `onEndReached` callback. * Thus a value of 0.5 will trigger `onEndReached` when the end of the content is * within half the visible length of the list. */" />
       <item value="Called once when the scroll position gets within onEndReachedThreshold of the rendered content." />
       <item value="/** * How far from the end (in units of visible length of the list) the bottom edge of the * list must be from the end of the content to trigger the `onEndReached` callback. * Thus a value of 0.5 will trigger `onEndReached` when the end of the content is * within half the visible length of the list." />
-      <item value="广告" />
-      <item value="* Set props directly on the native component WebView. Enables custom props which the * original WebView doesn't pass through." />
     </histories>
     <option name="languageScores">
       <map>
