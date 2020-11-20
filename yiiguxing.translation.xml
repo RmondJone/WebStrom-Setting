@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="诊断结果" />
+      <item value="理赔描述" />
       <item value="申请人" />
       <item value="成功" />
       <item value="full" />
@@ -49,8 +51,6 @@
       <item value="/** * How far from the end (in units of visible length of the list) the bottom edge of the * list must be from the end of the content to trigger the `onEndReached` callback. * Thus a value of 0.5 will trigger `onEndReached` when the end of the content is * within half the visible length of the list." />
       <item value="广告" />
       <item value="* Set props directly on the native component WebView. Enables custom props which the * original WebView doesn't pass through." />
-      <item value="Does this view want to become responder on the start of a touch?" />
-      <item value="Something else is the responder right now and will not release it" />
     </histories>
     <option name="languageScores">
       <map>
