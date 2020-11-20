@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="申请人" />
       <item value="成功" />
       <item value="full" />
       <item value="完整" />
@@ -18,7 +19,6 @@
       <item value="选择保单" />
       <item value="发生" />
       <item value="发生时间" />
-      <item value="申请人" />
       <item value="容器" />
       <item value="理赔" />
       <item value="距离" />
