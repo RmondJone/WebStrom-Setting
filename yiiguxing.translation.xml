@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="省市区" />
       <item value="折行" />
       <item value="多被保人" />
       <item value="计划起飞时间" />
@@ -50,7 +51,6 @@
       <item value="xports some data, e.g. for perf investigations or analytics." />
       <item value="/** * Minimum amount of time (in milliseconds) that an item must be physically viewable before the * viewability callback will be fired. A high number means that scrolling through content without * stopping will not mark the content as viewable. */" />
       <item value="* Nothing is considered viewable until the user scrolls or `recordInteraction` is called after * render." />
-      <item value="/** * How far from the end (in units of visible length of the list) the bottom edge of the * list must be from the end of the content to trigger the `onEndReached` callback. * Thus a value of 0.5 will trigger `onEndReached` when the end of the content is * within half the visible length of the list. */" />
     </histories>
     <option name="languageScores">
       <map>
