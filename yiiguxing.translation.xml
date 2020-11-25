@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="修改" />
       <item value="必填" />
       <item value="省市区" />
       <item value="折行" />
@@ -50,7 +51,6 @@
       <item value="二级" />
       <item value="tail Type" />
       <item value="xports some data, e.g. for perf investigations or analytics." />
-      <item value="/** * Minimum amount of time (in milliseconds) that an item must be physically viewable before the * viewability callback will be fired. A high number means that scrolling through content without * stopping will not mark the content as viewable. */" />
     </histories>
     <option name="languageScores">
       <map>
