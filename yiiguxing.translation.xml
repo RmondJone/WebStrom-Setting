@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="修改" />
+      <item value="是否修改" />
       <item value="transform" />
       <item value="转换" />
       <item value="money" />
-      <item value="修改" />
       <item value="必填" />
       <item value="省市区" />
       <item value="折行" />
@@ -50,12 +51,11 @@
       <item value="保存数据" />
       <item value="专辑" />
       <item value="Converts plain (literal) object to class (constructor) object. Also works with arrays" />
-      <item value="次级" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="151" />
-        <entry key="ENGLISH" value="151" />
+        <entry key="ENGLISH" value="152" />
       </map>
     </option>
   </component>
