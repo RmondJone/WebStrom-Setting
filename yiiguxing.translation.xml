@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="点赞" />
       <item value="最新资讯" />
       <item value="概述" />
       <item value="上一页" />
@@ -50,7 +51,6 @@
       <item value="隐藏" />
       <item value="animation" />
       <item value="推广费" />
-      <item value="hide" />
     </histories>
     <option name="languageScores">
       <map>
