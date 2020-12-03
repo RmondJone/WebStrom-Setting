@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="单选" />
       <item value="点赞" />
       <item value="最新资讯" />
       <item value="概述" />
@@ -50,7 +51,6 @@
       <item value="/** * Boolean value to enable third party cookies in the `WebView`. Used on * Android Lollipop and above only as third party cookies are enabled by * default on Android Kitkat and below and on iOS. The default value is `true`. * @platform android */" />
       <item value="隐藏" />
       <item value="animation" />
-      <item value="推广费" />
     </histories>
     <option name="languageScores">
       <map>
