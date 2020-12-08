@@ -1,61 +1,61 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="insurance Period Start Str" />
+      <item value="Period" />
+      <item value="单选" />
+      <item value="点赞" />
+      <item value="最新资讯" />
+      <item value="概述" />
+      <item value="上一页" />
+      <item value="翻页" />
+      <item value="二级分类" />
+      <item value="修改" />
+      <item value="是否修改" />
+      <item value="transform" />
+      <item value="转换" />
+      <item value="money" />
+      <item value="必填" />
+      <item value="省市区" />
+      <item value="折行" />
+      <item value="多被保人" />
+      <item value="计划起飞时间" />
+      <item value="航班号" />
+      <item value="诊断结果" />
+      <item value="理赔描述" />
+      <item value="申请人" />
+      <item value="成功" />
+      <item value="full" />
+      <item value="完整" />
+      <item value="提交" />
+      <item value="团险" />
+      <item value="理赔项目" />
+      <item value="expansion" />
+      <item value="展开" />
+      <item value="unset" />
+      <item value="available" />
+      <item value="separation" />
+      <item value="分割" />
+      <item value="开关" />
+      <item value="收起" />
+      <item value="选择保单" />
+      <item value="发生" />
+      <item value="发生时间" />
+      <item value="容器" />
+      <item value="理赔" />
+      <item value="距离" />
+      <item value="分页" />
       <item value="/** * List of origin strings to allow being navigated to. The strings allow * wildcards and get matched against *just* the origin (not the full URL). * If the user taps to navigate to a new page but the new page is not in * this whitelist, we will open the URL in Safari. * The default whitelisted origins are &quot;http://*&quot; and &quot;https://*&quot;. */" />
       <item value="/** * Boolean that sets whether JavaScript running in the context of a file * scheme URL should be allowed to access content from any origin. * Including accessing content from other file scheme URLs * @platform android */" />
       <item value="/** * Sets whether the webview allow access to file system. * @platform android */" />
       <item value="/** * Sets number that controls text zoom of the page in percent. * @platform android */" />
       <item value="/** * Specifies the mixed content mode. i.e WebView will allow a secure origin to load content from any other origin. * * Possible values for `mixedContentMode` are: * * - `'never'` (default) - WebView will not allow a secure origin to load content from an insecure origin. * - `'always'` - WebView will allow a secure origin to load content from any other origin, even if that origin is insecure. * - `'compatibility'` - WebView will attempt to be compatible with the approach of a modern web browser with regard to mixed content. * @platform android */" />
       <item value="/** * Boolean value to enable third party cookies in the `WebView`. Used on * Android Lollipop and above only as third party cookies are enabled by * default on Android Kitkat and below and on iOS. The default value is `true`. * @platform android */" />
-      <item value="距离" />
-      <item value="隐藏" />
-      <item value="animation" />
-      <item value="推广费" />
-      <item value="hide" />
-      <item value="分类" />
-      <item value="/** * This controls how often the scroll event will be fired while scrolling (in events per seconds). * A higher number yields better accuracy for code that is tracking the scroll position, * but can lead to scroll performance problems due to the volume of information being send over the bridge. * The default value is zero, which means the scroll event will be sent only once each time the view is scrolled. */" />
-      <item value="保存数据" />
-      <item value="专辑" />
-      <item value="Converts plain (literal) object to class (constructor) object. Also works with arrays" />
-      <item value="次级" />
-      <item value="二级" />
-      <item value="tail Type" />
-      <item value="xports some data, e.g. for perf investigations or analytics." />
-      <item value="/** * Minimum amount of time (in milliseconds) that an item must be physically viewable before the * viewability callback will be fired. A high number means that scrolling through content without * stopping will not mark the content as viewable. */" />
-      <item value="* Nothing is considered viewable until the user scrolls or `recordInteraction` is called after * render." />
-      <item value="/** * How far from the end (in units of visible length of the list) the bottom edge of the * list must be from the end of the content to trigger the `onEndReached` callback. * Thus a value of 0.5 will trigger `onEndReached` when the end of the content is * within half the visible length of the list. */" />
-      <item value="Called once when the scroll position gets within onEndReachedThreshold of the rendered content." />
-      <item value="/** * How far from the end (in units of visible length of the list) the bottom edge of the * list must be from the end of the content to trigger the `onEndReached` callback. * Thus a value of 0.5 will trigger `onEndReached` when the end of the content is * within half the visible length of the list." />
-      <item value="广告" />
-      <item value="* Set props directly on the native component WebView. Enables custom props which the * original WebView doesn't pass through." />
-      <item value="Does this view want to become responder on the start of a touch?" />
-      <item value="Something else is the responder right now and will not release it" />
-      <item value="The View is now responding for touch events. * This is the time to highlight and show the user what is happening */" />
-      <item value="Focuses on WebView redered page." />
-      <item value="The X position of the touch, relative to the screen" />
-      <item value="The X position of the touch, relative to the element" />
-      <item value="动画" />
-      <item value="平移动画" />
-      <item value="平移" />
-      <item value="expansion" />
-      <item value="展开" />
-      <item value="帮选" />
-      <item value="缩小" />
-      <item value="置顶" />
-      <item value="分页" />
-      <item value="客服" />
-      <item value="悬浮" />
-      <item value="足迹" />
-      <item value="Fires when scroll view has finished moving" />
-      <item value="Fires if a user initiates a scroll gesture." />
-      <item value="Fires when scroll view has begun moving" />
-      <item value="/** * Nothing is considered viewable until the user scrolls or `recordInteraction` is called after * render. */" />
-      <item value="/** * Percent of viewport that must be covered for a partially occluded item to count as * &quot;viewable&quot;, 0-100. Fully visible items are always considered viewable. A value of 0 means * that a single pixel in the viewport makes the item viewable, and a value of 100 means that * an item must be either entirely visible or cover the entire viewport to count as viewable. */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="141" />
-        <entry key="ENGLISH" value="142" />
+        <entry key="CHINESE" value="153" />
+        <entry key="ENGLISH" value="154" />
       </map>
     </option>
   </component>
