@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="核保" />
+      <item value="核保中" />
+      <item value="未承保" />
+      <item value="已承保" />
+      <item value="未完成" />
+      <item value="保单" />
       <item value="Benefit" />
       <item value="模板" />
       <item value="insurance Period Start Str" />
@@ -45,17 +51,11 @@
       <item value="发生时间" />
       <item value="容器" />
       <item value="理赔" />
-      <item value="距离" />
-      <item value="分页" />
-      <item value="/** * List of origin strings to allow being navigated to. The strings allow * wildcards and get matched against *just* the origin (not the full URL). * If the user taps to navigate to a new page but the new page is not in * this whitelist, we will open the URL in Safari. * The default whitelisted origins are &quot;http://*&quot; and &quot;https://*&quot;. */" />
-      <item value="/** * Boolean that sets whether JavaScript running in the context of a file * scheme URL should be allowed to access content from any origin. * Including accessing content from other file scheme URLs * @platform android */" />
-      <item value="/** * Sets whether the webview allow access to file system. * @platform android */" />
-      <item value="/** * Sets number that controls text zoom of the page in percent. * @platform android */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="155" />
-        <entry key="ENGLISH" value="156" />
+        <entry key="CHINESE" value="156" />
+        <entry key="ENGLISH" value="157" />
       </map>
     </option>
   </component>
