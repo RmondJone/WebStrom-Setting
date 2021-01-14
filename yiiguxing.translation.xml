@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="保障时间" />
       <item value="核保" />
       <item value="核保中" />
       <item value="未承保" />
@@ -50,7 +51,6 @@
       <item value="发生" />
       <item value="发生时间" />
       <item value="容器" />
-      <item value="理赔" />
     </histories>
     <option name="languageScores">
       <map>
