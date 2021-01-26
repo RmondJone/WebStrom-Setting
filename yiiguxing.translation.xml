@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="投保人" />
       <item value="方案" />
       <item value="Guaranteed" />
       <item value="公用" />
@@ -10,7 +11,6 @@
       <item value="被监护人" />
       <item value="投保" />
       <item value="被保人" />
-      <item value="投保人" />
       <item value="日历" />
       <item value="费用" />
       <item value="描述" />
