@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="公用" />
+      <item value="自定义" />
       <item value="GUARANTEEDMODAL" />
       <item value="保障内容" />
       <item value="被监护人" />
@@ -49,13 +51,11 @@
       <item value="full" />
       <item value="完整" />
       <item value="提交" />
-      <item value="团险" />
-      <item value="理赔项目" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="157" />
-        <entry key="ENGLISH" value="158" />
+        <entry key="CHINESE" value="158" />
+        <entry key="ENGLISH" value="159" />
       </map>
     </option>
   </component>
