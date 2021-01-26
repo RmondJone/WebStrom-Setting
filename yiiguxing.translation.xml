@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="缴费" />
+      <item value="月付" />
       <item value="寄送地址" />
       <item value="寄送" />
       <item value="发票" />
@@ -49,8 +51,6 @@
       <item value="省市区" />
       <item value="折行" />
       <item value="多被保人" />
-      <item value="计划起飞时间" />
-      <item value="航班号" />
     </histories>
     <option name="languageScores">
       <map>
