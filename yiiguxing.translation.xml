@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="智能问卷" />
       <item value="答案" />
       <item value="question" />
       <item value="问题" />
@@ -50,7 +51,6 @@
       <item value="翻页" />
       <item value="二级分类" />
       <item value="修改" />
-      <item value="是否修改" />
     </histories>
     <option name="languageScores">
       <map>
