@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="受益人" />
+      <item value="投保人" />
       <item value="智能问卷" />
       <item value="答案" />
       <item value="question" />
@@ -21,8 +23,6 @@
       <item value="发票" />
       <item value="附加项" />
       <item value="比例" />
-      <item value="受益人" />
-      <item value="投保人" />
       <item value="方案" />
       <item value="Guaranteed" />
       <item value="公用" />
