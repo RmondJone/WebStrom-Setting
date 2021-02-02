@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="容器" />
       <item value="过期" />
       <item value="待确认" />
       <item value="锚点" />
@@ -9,7 +10,6 @@
       <item value="Module parse failed: Unexpected token" />
       <item value="预览" />
       <item value="现在" />
-      <item value="容器" />
       <item value="拦截" />
       <item value="受益人" />
       <item value="投保人" />
