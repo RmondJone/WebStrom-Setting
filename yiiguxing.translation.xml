@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="受益人" />
+      <item value="被保人" />
+      <item value="地址" />
       <item value="发票" />
       <item value="选中" />
       <item value="监护" />
@@ -15,7 +18,6 @@
       <item value="预览" />
       <item value="现在" />
       <item value="拦截" />
-      <item value="受益人" />
       <item value="投保人" />
       <item value="智能问卷" />
       <item value="答案" />
@@ -29,7 +31,6 @@
       <item value="核保中" />
       <item value="已承保" />
       <item value="多被保人" />
-      <item value="被保人" />
       <item value="缴费" />
       <item value="月付" />
       <item value="寄送地址" />
@@ -50,7 +51,6 @@
       <item value="延续" />
       <item value="延续保障" />
       <item value="保障时间" />
-      <item value="未完成" />
     </histories>
     <option name="languageScores">
       <map>
