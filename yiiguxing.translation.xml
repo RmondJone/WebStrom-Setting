@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="问卷" />
       <item value="积分" />
       <item value="实付款" />
       <item value="coupon" />
@@ -34,7 +35,6 @@
       <item value="答案" />
       <item value="question" />
       <item value="问题" />
-      <item value="问卷" />
       <item value="投保问卷" />
       <item value="prevent Default Touchmove Event" />
       <item value="未承保" />
