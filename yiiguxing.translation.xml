@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="发票" />
+      <item value="选中" />
       <item value="监护" />
       <item value="下载" />
       <item value="容器" />
@@ -32,7 +34,6 @@
       <item value="月付" />
       <item value="寄送地址" />
       <item value="寄送" />
-      <item value="发票" />
       <item value="附加项" />
       <item value="比例" />
       <item value="方案" />
@@ -50,7 +51,6 @@
       <item value="延续保障" />
       <item value="保障时间" />
       <item value="未完成" />
-      <item value="保单" />
     </histories>
     <option name="languageScores">
       <map>
