@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="费用" />
       <item value="描述" />
       <item value="秒速" />
       <item value="项目" />
@@ -49,7 +50,6 @@
       <item value="被监护人" />
       <item value="投保" />
       <item value="日历" />
-      <item value="费用" />
       <item value="延续" />
     </histories>
     <option name="languageScores">
