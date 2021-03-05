@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="564" />
+    <option name="newTranslationDialogWidth" value="562" />
     <option name="newTranslationDialogX" value="807" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="银行汇款" />
       <item value="汇款流程&#10;" />
       <item value="汇款kl" />
       <item value="线下箭头&#10;" />
@@ -53,7 +54,6 @@
       <item value="优惠券" />
       <item value="加费" />
       <item value="保费" />
-      <item value="费用" />
     </histories>
     <option name="languageScores">
       <map>
