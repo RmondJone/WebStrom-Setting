@@ -1,62 +1,68 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="558" />
+    <option name="newTranslationDialogX" value="807" />
+    <option name="newTranslationDialogY" value="449" />
     <histories>
-      <item value="insurance Period Start Str" />
-      <item value="Period" />
-      <item value="单选" />
-      <item value="点赞" />
-      <item value="最新资讯" />
-      <item value="概述" />
-      <item value="上一页" />
-      <item value="翻页" />
-      <item value="二级分类" />
-      <item value="修改" />
-      <item value="是否修改" />
-      <item value="transform" />
-      <item value="转换" />
-      <item value="money" />
-      <item value="必填" />
-      <item value="省市区" />
-      <item value="折行" />
-      <item value="多被保人" />
-      <item value="计划起飞时间" />
-      <item value="航班号" />
-      <item value="诊断结果" />
-      <item value="理赔描述" />
-      <item value="申请人" />
-      <item value="成功" />
-      <item value="full" />
-      <item value="完整" />
-      <item value="提交" />
-      <item value="团险" />
-      <item value="理赔项目" />
-      <item value="expansion" />
-      <item value="展开" />
-      <item value="unset" />
-      <item value="available" />
-      <item value="separation" />
-      <item value="分割" />
-      <item value="开关" />
-      <item value="收起" />
-      <item value="选择保单" />
-      <item value="发生" />
-      <item value="发生时间" />
-      <item value="容器" />
-      <item value="理赔" />
-      <item value="距离" />
-      <item value="分页" />
-      <item value="/** * List of origin strings to allow being navigated to. The strings allow * wildcards and get matched against *just* the origin (not the full URL). * If the user taps to navigate to a new page but the new page is not in * this whitelist, we will open the URL in Safari. * The default whitelisted origins are &quot;http://*&quot; and &quot;https://*&quot;. */" />
-      <item value="/** * Boolean that sets whether JavaScript running in the context of a file * scheme URL should be allowed to access content from any origin. * Including accessing content from other file scheme URLs * @platform android */" />
-      <item value="/** * Sets whether the webview allow access to file system. * @platform android */" />
-      <item value="/** * Sets number that controls text zoom of the page in percent. * @platform android */" />
-      <item value="/** * Specifies the mixed content mode. i.e WebView will allow a secure origin to load content from any other origin. * * Possible values for `mixedContentMode` are: * * - `'never'` (default) - WebView will not allow a secure origin to load content from an insecure origin. * - `'always'` - WebView will allow a secure origin to load content from any other origin, even if that origin is insecure. * - `'compatibility'` - WebView will attempt to be compatible with the approach of a modern web browser with regard to mixed content. * @platform android */" />
-      <item value="/** * Boolean value to enable third party cookies in the `WebView`. Used on * Android Lollipop and above only as third party cookies are enabled by * default on Android Kitkat and below and on iOS. The default value is `true`. * @platform android */" />
+      <item value="escape Clause" />
+      <item value="核保中&#10;" />
+      <item value="分类" />
+      <item value="邮政&#10;" />
+      <item value="邮政" />
+      <item value="银行汇款" />
+      <item value="汇款流程&#10;" />
+      <item value="汇款kl" />
+      <item value="线下箭头&#10;" />
+      <item value="xian" />
+      <item value="倒计时" />
+      <item value="dao" />
+      <item value="倒计时&#10;" />
+      <item value="汇款单&#10;" />
+      <item value="汇款端" />
+      <item value="汇款duan" />
+      <item value="huika" />
+      <item value="线下&#10;" />
+      <item value="积分&#10;" />
+      <item value="金额" />
+      <item value="jine" />
+      <item value="到期&#10;" />
+      <item value="抵用劵&#10;" />
+      <item value="优惠券&#10;" />
+      <item value="优惠券】" />
+      <item value="优惠券】&#10;" />
+      <item value="o" />
+      <item value="prompt" />
+      <item value="wireframe-check" />
+      <item value="integral" />
+      <item value="trash" />
+      <item value="过期日期&#10;" />
+      <item value="过期" />
+      <item value="生效日期&#10;" />
+      <item value="生效r" />
+      <item value="there are only 3 in DOM" />
+      <item value="性别" />
+      <item value="生日" />
+      <item value="序号" />
+      <item value="被保人清单" />
+      <item value="账号" />
+      <item value="分期" />
+      <item value="期数" />
+      <item value="显示" />
+      <item value="月付" />
+      <item value="record" />
+      <item value="记录" />
+      <item value="缴费" />
+      <item value="问卷" />
+      <item value="积分" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="153" />
-        <entry key="ENGLISH" value="154" />
+        <entry key="CHINESE" value="173" />
+        <entry key="ENGLISH" value="174" />
       </map>
     </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1614827773249" />
   </component>
 </application>
