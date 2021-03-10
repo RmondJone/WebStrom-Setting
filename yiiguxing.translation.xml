@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="548" />
+    <option name="newTranslationDialogWidth" value="546" />
     <option name="newTranslationDialogX" value="807" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="占位" />
+      <item value="zhanw" />
       <item value="Container" />
       <item value="推荐产品&#10;" />
       <item value="ruijain" />
@@ -52,8 +54,6 @@
       <item value="生效日期&#10;" />
       <item value="生效r" />
       <item value="there are only 3 in DOM" />
-      <item value="性别" />
-      <item value="生日" />
     </histories>
     <option name="languageScores">
       <map>
