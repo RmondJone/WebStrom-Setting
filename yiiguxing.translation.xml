@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="807" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="Container" />
       <item value="推荐产品&#10;" />
       <item value="ruijain" />
       <item value="广告&#10;" />
@@ -53,12 +54,11 @@
       <item value="there are only 3 in DOM" />
       <item value="性别" />
       <item value="生日" />
-      <item value="序号" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="173" />
-        <entry key="ENGLISH" value="174" />
+        <entry key="CHINESE" value="174" />
+        <entry key="ENGLISH" value="175" />
       </map>
     </option>
   </component>
