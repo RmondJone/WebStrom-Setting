@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="552" />
+    <option name="newTranslationDialogWidth" value="550" />
     <option name="newTranslationDialogX" value="807" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="广告&#10;" />
       <item value="索引" />
       <item value="souyingann" />
       <item value="souying" />
@@ -12,7 +13,6 @@
       <item value="souy" />
       <item value="推荐产品&#10;" />
       <item value="推荐产品" />
-      <item value="广告&#10;" />
       <item value="guang" />
       <item value="escape Clause" />
       <item value="核保中&#10;" />
