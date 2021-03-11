@@ -1,9 +1,23 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="558" />
+    <option name="newTranslationDialogWidth" value="546" />
     <option name="newTranslationDialogX" value="807" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="占位" />
+      <item value="zhanw" />
+      <item value="Container" />
+      <item value="推荐产品&#10;" />
+      <item value="ruijain" />
+      <item value="广告&#10;" />
+      <item value="索引" />
+      <item value="souyingann" />
+      <item value="souying" />
+      <item value="sou" />
+      <item value="souyin" />
+      <item value="souy" />
+      <item value="推荐产品" />
+      <item value="guang" />
       <item value="escape Clause" />
       <item value="核保中&#10;" />
       <item value="分类" />
@@ -40,29 +54,15 @@
       <item value="生效日期&#10;" />
       <item value="生效r" />
       <item value="there are only 3 in DOM" />
-      <item value="性别" />
-      <item value="生日" />
-      <item value="序号" />
-      <item value="被保人清单" />
-      <item value="账号" />
-      <item value="分期" />
-      <item value="期数" />
-      <item value="显示" />
-      <item value="月付" />
-      <item value="record" />
-      <item value="记录" />
-      <item value="缴费" />
-      <item value="问卷" />
-      <item value="积分" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="173" />
-        <entry key="ENGLISH" value="174" />
+        <entry key="CHINESE" value="174" />
+        <entry key="ENGLISH" value="175" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1614827773249" />
+    <option name="lastTrimTime" value="1615280021192" />
   </component>
 </application>
