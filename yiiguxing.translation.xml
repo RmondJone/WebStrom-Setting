@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="807" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="Receiver" />
       <item value="占位" />
       <item value="zhanw" />
       <item value="Container" />
@@ -53,16 +54,15 @@
       <item value="过期" />
       <item value="生效日期&#10;" />
       <item value="生效r" />
-      <item value="there are only 3 in DOM" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="174" />
-        <entry key="ENGLISH" value="175" />
+        <entry key="CHINESE" value="175" />
+        <entry key="ENGLISH" value="176" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615280021192" />
+    <option name="lastTrimTime" value="1615797897577" />
   </component>
 </application>
