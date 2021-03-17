@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="536" />
+    <option name="newTranslationDialogWidth" value="530" />
     <option name="newTranslationDialogX" value="807" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="自由" />
+      <item value="投吧问卷&#10;" />
+      <item value="投吧问卷" />
+      <item value="投保问卷&#10;" />
       <item value="保费" />
       <item value="等待&#10;" />
       <item value="废弃" />
@@ -50,10 +54,6 @@
       <item value="抵用劵&#10;" />
       <item value="优惠券&#10;" />
       <item value="优惠券】" />
-      <item value="优惠券】&#10;" />
-      <item value="o" />
-      <item value="prompt" />
-      <item value="wireframe-check" />
     </histories>
     <option name="languageScores">
       <map>
