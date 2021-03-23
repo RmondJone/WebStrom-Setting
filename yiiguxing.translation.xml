@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="530" />
+    <option name="newTranslationDialogWidth" value="528" />
     <option name="newTranslationDialogX" value="807" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="计算字符串长度&#10;" />
+      <item value="计算" />
       <item value="自由" />
       <item value="投吧问卷&#10;" />
       <item value="投吧问卷" />
@@ -52,8 +54,6 @@
       <item value="jine" />
       <item value="到期&#10;" />
       <item value="抵用劵&#10;" />
-      <item value="优惠券&#10;" />
-      <item value="优惠券】" />
     </histories>
     <option name="languageScores">
       <map>
@@ -63,6 +63,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615797897577" />
+    <option name="lastTrimTime" value="1616486212972" />
   </component>
 </application>
