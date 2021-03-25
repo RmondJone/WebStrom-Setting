@@ -1,9 +1,22 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="546" />
+    <option name="newTranslationDialogWidth" value="528" />
     <option name="newTranslationDialogX" value="807" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="计算字符串长度&#10;" />
+      <item value="计算" />
+      <item value="自由" />
+      <item value="投吧问卷&#10;" />
+      <item value="投吧问卷" />
+      <item value="投保问卷&#10;" />
+      <item value="保费" />
+      <item value="等待&#10;" />
+      <item value="废弃" />
+      <item value="飞起" />
+      <item value="法定" />
+      <item value="缴费&#10;" />
+      <item value="Receiver" />
       <item value="占位" />
       <item value="zhanw" />
       <item value="Container" />
@@ -41,28 +54,15 @@
       <item value="jine" />
       <item value="到期&#10;" />
       <item value="抵用劵&#10;" />
-      <item value="优惠券&#10;" />
-      <item value="优惠券】" />
-      <item value="优惠券】&#10;" />
-      <item value="o" />
-      <item value="prompt" />
-      <item value="wireframe-check" />
-      <item value="integral" />
-      <item value="trash" />
-      <item value="过期日期&#10;" />
-      <item value="过期" />
-      <item value="生效日期&#10;" />
-      <item value="生效r" />
-      <item value="there are only 3 in DOM" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="174" />
-        <entry key="ENGLISH" value="175" />
+        <entry key="CHINESE" value="175" />
+        <entry key="ENGLISH" value="176" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615280021192" />
+    <option name="lastTrimTime" value="1616486212972" />
   </component>
 </application>
